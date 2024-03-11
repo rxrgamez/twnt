@@ -1,0 +1,27 @@
+[gd_scene format=3 uid="uid://bh0hr67jktt1v"]
+
+[node name="Main Game Core" type="Node"]
+
+[node name="Levels" type="Node" parent="."]
+
+[node name="Main Menu" type="Node" parent="Levels"]
+
+[node name="Level 1" type="Node" parent="Levels"]
+
+[node name="Level 2" type="Node" parent="Levels"]
+
+[node name="Level 3" type="Node" parent="Levels"]
+
+[node name="Level 4" type="Node" parent="Levels"]
+
+[node name="Level 5" type="Node" parent="Levels"]
+
+[node name="Level 6" type="Node" parent="Levels"]
+
+[node name="Characters" type="Node" parent="."]
+
+[node name="Collectibles" type="Node" parent="."]
+
+[node name="Enemies" type="Node" parent="."]
+
+[node name="Checkpoints" type="Node" parent="."]
