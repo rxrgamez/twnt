@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btt4u5o11l82"
-path="res://.godot/imported/Run (32x32).png-5615656090009eba2b22daab9bcead39.ctex"
+uid="uid://dv8ym5ccirdor"
+path="res://.godot/imported/Wall Jump.png-dc050ff9d40acf44fd891aaa1bde8f82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_vault_twnt/_characters/Ninja Frog/Run (32x32).png"
-dest_files=["res://.godot/imported/Run (32x32).png-5615656090009eba2b22daab9bcead39.ctex"]
+source_file="res://_vault_twnt/_characters/Ninja Frog/Wall Jump.png"
+dest_files=["res://.godot/imported/Wall Jump.png-dc050ff9d40acf44fd891aaa1bde8f82.ctex"]
 
 [params]
 

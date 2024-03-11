@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtt8hcsec3h3v"
-path="res://.godot/imported/Idle (32x32).png-01364e411fe475303f0c3075868a3433.ctex"
+path="res://.godot/imported/Idle.png-33ec4ce1a2f0c6ba67ad274f94d70721.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_vault_twnt/_characters/Ninja Frog/Idle (32x32).png"
-dest_files=["res://.godot/imported/Idle (32x32).png-01364e411fe475303f0c3075868a3433.ctex"]
+source_file="res://_vault_twnt/_characters/Ninja Frog/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-33ec4ce1a2f0c6ba67ad274f94d70721.ctex"]
 
 [params]
 
