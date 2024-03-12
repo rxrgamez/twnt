@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3 uid="uid://bh0hr67jktt1v"]
+
+[ext_resource type="PackedScene" uid="uid://bjhwbtbyj2hb6" path="res://_vault_twnt/_scenes_twnt/_level_0.tscn" id="1_0n47o"]
+[ext_resource type="PackedScene" uid="uid://cpxdh8m6yh1vk" path="res://_vault_twnt/_scenes_twnt/_ninja_toad.tscn" id="2_j48nl"]
+
+[node name="_main_game_core" type="Node"]
+
+[node name="_main_menu" type="Node" parent="."]
+
+[node name="_level_0" parent="_main_menu" instance=ExtResource("1_0n47o")]
+
+[node name="_level_1" type="Node" parent="_main_menu"]
+
+[node name="_level_2" type="Node" parent="_main_menu"]
+
+[node name="_level_3" type="Node" parent="_main_menu"]
+
+[node name="_level_4" type="Node" parent="_main_menu"]
+
+[node name="_level_5" type="Node" parent="_main_menu"]
+
+[node name="_level_66" type="Node" parent="_main_menu"]
+
+[node name="_all _characters" type="Node" parent="."]
+
+[node name="_ninja_toad" parent="_all _characters" instance=ExtResource("2_j48nl")]
+position = Vector2(152, 196)
+
+[node name="_all _collectibles" type="Node" parent="."]
+
+[node name="_all_enemies" type="Node" parent="."]
+
+[node name="_all_checkpoints" type="Node" parent="."]

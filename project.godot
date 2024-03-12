@@ -11,9 +11,9 @@ config_version=5
 [application]
 
 config/name="TWNT"
-run/main_scene="res://_vault_twnt/_scenes_twnt/main_game_core.tscn"
+run/main_scene="res://_vault_twnt/_scenes_twnt/_main_game_core.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
-config/icon="res://_vault_twnt/icon.svg"
+config/icon="res://icon.svg"
 
 [audio]
 
